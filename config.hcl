@@ -4,5 +4,3 @@ listener "tcp" {
 }
 
 storage "inmem" {}
-
-plugin_directory = "my-plugins/"
